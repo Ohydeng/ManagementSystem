@@ -1,4 +1,4 @@
-# vue3-element-plus-admin
+## 使用 Vue3 基于 ElementPlus 的通用后台管理系统，这是一个简易版，在此之上可以根据自己的需求开发其他功能
 
 ## Project setup
 ```
