@@ -43,7 +43,7 @@ import { reactive, ref, onBeforeUnmount, getCurrentInstance } from 'vue';
 import { useStore } from "vuex";
 import { useRouter } from "vue-router";
 // 校验类
-import { validate_email, validate_password, validate_code  } from "../../utils/validate";
+import { validate_email, validate_password, validate_code  } from "@u/validate";
 // sha1
 import sha1 from "js-sha1";
 // API
