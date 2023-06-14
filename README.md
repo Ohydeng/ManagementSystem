@@ -9,6 +9,12 @@ npm install
 ```
 npm run serve
 ```
+### Login interface
+
+![image](https://github.com/Ohydeng/ManagementSystem/assets/87717641/f0737980-c99f-437a-b1b4-b1e732ac9fd2)
+
+![image](https://github.com/Ohydeng/ManagementSystem/assets/87717641/d43cc653-fd6e-4bf6-baff-4eb8a3b2c8c9)
+
 
 ### Compiles and minifies for production
 ```
