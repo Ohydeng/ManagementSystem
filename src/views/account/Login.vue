@@ -47,8 +47,8 @@ import { validate_email, validate_password, validate_code  } from "@u/validate";
 // sha1
 import sha1 from "js-sha1";
 // API
-import { GetCode } from "../../api/common";
-import { Register, Login } from "../../api/account";
+import { GetCode } from "@a/common";
+import { Register, Login } from "@a/account";
 export default {
     name: "Login",
     components: {},
